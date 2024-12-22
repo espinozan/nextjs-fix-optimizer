@@ -1,5 +1,12 @@
 #!/bin/bash
 
+###############################################################################
+# estos son opcionales:
+# npm install eslint@^8.57.1 eslint-plugin-react-hooks@^4.6.2 --legacy-peer-deps
+# npm install ajv@^8.0.0 --legacy-peer-deps
+###############################################################################
+
+
 # Nombre del script: fix-and-optimize-project.sh
 
 echo "===== Iniciando proceso para solucionar problemas, actualizar y optimizar el proyecto ====="
